@@ -65,7 +65,7 @@
 
 ## 📊 Development Activity
 
-![Contribution Snake](https://raw.githubusercontent.com/liu-kong/liu-kong/main/dist/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/liu-kong/liu-kong/main/generated/snake.svg)
 
 
 <!-- 动态活动图 -->
