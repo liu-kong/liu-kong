@@ -1,32 +1,40 @@
 name: Generate Contribution Snake
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # 每天UTC时间0点运行（北京时间8点）
   workflow_dispatch:
 
 permissions:
-  contents: write # 必须的写权限
+  contents: write  # 必须的写权限
 
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
     steps:
+      # 步骤1：检出代码
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # 获取完整提交历史
+          fetch-depth: 0  # 获取完整提交历史
+          path: main-repo  # 指定检出路径
 
+      # 步骤2：生成贪吃蛇图像
       - name: Generate Snake
-        uses: Platane/snk@master
+        uses: Platane/snk@v3  # 使用稳定版本
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            generated/snake.svg
+            generated/snake-dark.svg?palette=github-dark
+          svg_height: 300  # 设置图像高度
+          svg_width: 800   # 设置图像宽度
 
+      # 步骤3：提交变更
       - name: Commit and Push
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@v0.8.0  # 使用稳定版本
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
-          commit_message: "🐍 Auto-update contribution snake"
-          force: true
+          directory: generated  # 指定提交目录
+          commit_message: "🐍 Auto-update contribution snake [skip ci]"
+          force: false  # 禁用强制推送
+          clean: true   # 清理旧文件
