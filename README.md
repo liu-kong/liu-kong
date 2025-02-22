@@ -65,8 +65,7 @@
 
 ## 📊 Development Activity
 
-![Contribution Snake](https://raw.githubusercontent.com/liu-kong/liu-kong/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/liu-kong/liu-kong/main/dist/github-contribution-grid-snake.svg)
 
 <!-- 动态活动图 -->
 [![LiuKong's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=liu-kong&theme=react-dark&area=true&radius=16)](https://github.com/liu-kong)
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=liu-kong.liu-kong&left_color=gray&right_color=blue)
