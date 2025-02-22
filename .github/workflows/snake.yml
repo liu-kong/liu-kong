@@ -36,7 +36,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
           directory: generated  # 推送生成目录
-          commit_message: "🐍 Auto-update contribution snake [skip ci]"
           force: false  # 禁用强制推送
-          clean: true   # 清理旧文件
           tags: false
