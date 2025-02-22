@@ -28,8 +28,6 @@ jobs:
           outputs: |
             generated/snake.svg
             generated/snake-dark.svg?palette=github-dark
-          svg_height: 150  # 图像高度
-          svg_width: 800   # 图像宽度
 
       # Step 3: 提交生成的文件
       - name: Push generated files
