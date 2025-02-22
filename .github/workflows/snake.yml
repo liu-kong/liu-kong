@@ -1,14 +1,27 @@
-# .github/workflows/snake.yml
-name: Generate Snake
+name: Generate Contribution Snake
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # 每天UTC时间0点自动运行
+  workflow_dispatch:    # 允许手动触发
+
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - name: Generate Snake
+        uses: Platane/snk@master
         with:
-          github_user_name: liu-kong
-          output: dist/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }} # 自动获取当前用户
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          # 可选参数：
+          # svg_path: "snake.svg"  # 自定义输出路径
+          # github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push to Repository
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          commit_message: "🐍 Update contribution snake"
