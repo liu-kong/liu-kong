@@ -63,9 +63,13 @@
 
 </div>
 
-## 📊 Development Activity
+## 🐍 Contribution Activity 
 
-![Contribution Snake](https://raw.githubusercontent.com/liu-kong/liu-kong/main/generated/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liu-kong/liu-kong/main/generated/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liu-kong/liu-kong/main/generated/snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/liu-kong/liu-kong/main/generated/snake.svg">
+</picture>
 
 
 <!-- 动态活动图 -->
