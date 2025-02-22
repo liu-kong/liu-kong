@@ -1,14 +1,31 @@
-# .github/workflows/stats.yml
-name: Update Stats
+name: Update GitHub Stats
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # 每天UTC时间0点更新
+  workflow_dispatch:    # 手动触发开关
+
 jobs:
-  update:
+  update-stats:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 必须开启写权限
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: liu-kong/github-readme-stats@latest
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update Readme Stats
+        uses: anuraghazra/github-readme-stats@latest
         with:
-          COMMIT_MSG: "📊 Auto Update Metrics"
+          COMMIT_MSG: "📊 Auto Update Metrics - $(date +'%Y-%m-%d')"
+          # 可选配置：
+          # STATS_CARD: "vertical"  # 卡片布局方式
+          # LANG_CARD: "compact"    # 语言卡片样式
+
+      - name: Push Changes
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "action@github.com"
+          git add README.md
+          git commit -m "${{ env.COMMIT_MSG }}"
+          git push
