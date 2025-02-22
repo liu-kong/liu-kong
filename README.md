@@ -65,7 +65,7 @@
 
 ## 📊 Development Activity
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liu-kong&show_icons=true&theme=radical)
+![Contribution Snake](https://raw.githubusercontent.com/liu-kong/liu-kong/main/dist/github-contribution-grid-snake.svg)
 
 
 <!-- 动态活动图 -->
