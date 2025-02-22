@@ -8,20 +8,24 @@ jobs:
   generate-snake:
     runs-on: ubuntu-latest
     steps:
+      # 必须先检出代码
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      # 生成贪吃蛇图像
       - name: Generate Snake
         uses: Platane/snk@master
         with:
-          github_user_name: ${{ github.repository_owner }} # 自动获取当前用户
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          # 可选参数：
-          # svg_path: "snake.svg"  # 自定义输出路径
-          # github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: ${{ github.repository_owner }}
+          output: dist/github-contribution-grid-snake.svg
 
-      - name: Push to Repository
-        uses: actions-js/push@master
+      # 使用更稳定的推送Action
+      - name: Push to GitHub
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
+          directory: dist # 指定要推送的目录
           commit_message: "🐍 Update contribution snake"
+          force: true
