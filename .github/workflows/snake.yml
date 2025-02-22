@@ -12,16 +12,16 @@ jobs:
   generate-snake:
     runs-on: ubuntu-latest
     steps:
-      # Step 1: 检出代码库
+      # Step 1: 检出代码库（使用默认路径）
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0  # 获取完整提交历史
-          path: main-repo  # 指定检出路径
+          persist-credentials: false
 
       # Step 2: 生成贪吃蛇图像
       - name: Generate contribution snake
-        uses: Platane/snk@v3  # 使用稳定版本
+        uses: Platane/snk@v3
         id: snake
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -29,12 +29,14 @@ jobs:
             generated/snake.svg
             generated/snake-dark.svg?palette=github-dark
 
-      # Step 3: 提交生成的文件
-      - name: Push generated files
-        uses: ad-m/github-push-action@v0.8.0  # 使用稳定版本
+      # Step 3: 提交变更（使用验证过的推送方案）
+      - name: Deploy to GitHub
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
-          directory: generated  # 推送生成目录
-          force: false  # 禁用强制推送
-          tags: false
+          folder: generated
+          clean: true
+          clean-exclude: |
+            !.gitkeep
+          commit-message: "🐍 Auto-update contribution snake [skip ci]"
