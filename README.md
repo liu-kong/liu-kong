@@ -66,8 +66,8 @@
 
 </div>
 
-<!-- 亮色模式的贪吃蛇图像 -->
-![Snake animation](https://raw.githubusercontent.com/liu-kong/liu-kong/output/dist/github-contribution-grid-snake-dark.svg)
+<!-- 暗色模式的贪吃蛇图像 -->
+![Snake animation (Dark)](https://raw.githubusercontent.com/liu-kong/liu-kong/output/dist/github-contribution-grid-snake-dark.svg)
 
 <!-- 动态活动图 -->
 [![LiuKong's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=liu-kong&theme=react-dark&area=true&radius=16)](https://github.com/liu-kong)
