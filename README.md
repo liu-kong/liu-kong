@@ -30,13 +30,7 @@
 | 云原生      | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker) ![K8S](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws) |
 | 数据分析    | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas) ![Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apachespark) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apacheairflow) |
 
-## 🐍 Contribution Activity 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liu-kong/liu-kong/main/generated/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liu-kong/liu-kong/main/generated/snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/liu-kong/liu-kong/main/generated/snake.svg">
-</picture>
 
 ## 🚀 Featured Projects
 
