@@ -14,8 +14,7 @@
   </a>
 </div>
 
-<!-- 动态活动图 -->
-[![LiuKong's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=liu-kong&theme=react-dark&area=true&radius=16)](https://github.com/liu-kong)
+
 
 ## 🛠️ Tech Arsenal
 
@@ -55,7 +54,6 @@
     <img src="https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C?logo=pytorch" alt="PyTorch">
     <img src="https://img.shields.io/badge/ONNX-1.13%2B-005BAC?logo=onnx" alt="ONNX">
   </div>
-  <img src="https://ghchart.rshah.org/liu-kong/AI2Edge" alt="Commit Activity" style="width: 100%;">
 </div>
 
 ### TokTok Platform
@@ -70,9 +68,9 @@
     <img src="https://img.shields.io/badge/Redis-7.0%2B-DC382D?logo=redis" alt="Redis">
     <img src="https://img.shields.io/badge/WebSocket-✓-green?logo=websocket" alt="WebSocket">
   </div>
-  <img src="https://ghchart.rshah.org/liu-kong/toktok" alt="Commit Activity" style="width: 100%;">
 </div>
 
 </div>
 
-
+<!-- 动态活动图 -->
+[![LiuKong's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=liu-kong&theme=react-dark&area=true&radius=16)](https://github.com/liu-kong)
