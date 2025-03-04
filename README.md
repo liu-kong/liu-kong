@@ -10,7 +10,7 @@
   <a href="https://github.com/liu-kong">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=liu-kong&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Dev+Metrics&hide=issues" />
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liu-kong&layout=compact&theme=radical&hide=Jupyter%20Notebook&langs_count=6" />
-    <img height="165" src="https://streak-stats.demolab.com/?user=liu-kong&theme=radical&hide_border=true" />
+<!--    <img height="165" src="https://streak-stats.demolab.com/?user=liu-kong&theme=radical&hide_border=true" /> -->
   </a>
 </div>
 
