@@ -1,7 +1,5 @@
 <!-- 精美头部 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&width=435&lines=Hi+👋+I'm+Liu+Kong;Full-Stack+AI+Developer" alt="Typing SVG" />
-  
   <h3 align="center">Building intelligent systems with passion 🚀</h3>
   
   <p align="center">
@@ -17,10 +15,7 @@
 
 <br>
 
-<!-- 访客计数器 -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/liu-kong/count.svg" alt="访客计数器" />
-</p>
+
 
 <br>
 
@@ -137,9 +132,7 @@
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/liu-kong)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/liu-kong)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/liu_kong)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lzy18188413536@163.com)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liukong404a@2925.com)
 [![Website](https://img.shields.io/badge/Website-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://liu-kong.github.io)
 
 </div>
