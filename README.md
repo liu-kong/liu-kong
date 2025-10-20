@@ -15,21 +15,6 @@
 
 <br>
 
-<!-- 统计卡片 -->
-<div align="center">
-  <a href="https://github.com/liu-kong">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liu-kong&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&hide=issues&bg_color=0D1117" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liu-kong&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117" />
-  </a>
-</div>
-
-<!-- 贡献活动图 -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=liu-kong&theme=radical&hide_border=true&bg_color=0D1117" alt="贡献活动图" />
-</div>
-
-<br>
-
 ## 🌟 About Me
 
 <div align="center">
@@ -97,6 +82,22 @@
 
 <br>
 
+
+
+<!-- 统计卡片 -->
+<div align="center">
+  <a href="https://github.com/liu-kong">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liu-kong&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&hide=issues&bg_color=0D1117" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liu-kong&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117" />
+  </a>
+</div>
+
+<!-- 贡献活动图 -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=liu-kong&theme=radical&hide_border=true&bg_color=0D1117" alt="贡献活动图" />
+</div>
+
+<br>
 ## 🚀 Projects
 
 <div align="center">
@@ -120,21 +121,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=liu-kong&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
-
-<br>
-
-<!-- 动态分隔符 - 使用更现代的设计 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
-</div>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  社区贡献
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
-</h2>
-
-
 
 <br>
 
