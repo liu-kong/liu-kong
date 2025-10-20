@@ -127,15 +127,18 @@
 
 <br>
 
-## 🌐 Connect With Me
-
+<!-- 动态分隔符 - 使用更现代的设计 -->
 <div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/liu-kong)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liukong404a@2925.com)
-[![Website](https://img.shields.io/badge/Website-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://liu-kong.github.io)
-
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
 </div>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
+  社区贡献
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
+</h2>
+
+
 
 <br>
 
