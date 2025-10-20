@@ -30,11 +30,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Quote">
 </div>
 
-<br>
-
-<div align="center">
-  <p>⭐️ From <a href="https://github.com/liu-kong">Liu Kong</a></p>
-</div>
 
 <br>
 
@@ -110,6 +105,12 @@
 
 <br>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liu-kong&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<br>
+
 <!-- 统计卡片 -->
 <div align="center">
   <a href="https://github.com/liu-kong">
@@ -125,11 +126,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liu-kong&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<br>
 
 
 <!-- GitHub 活动图 - 统一标题样式并对齐图标 -->
@@ -139,6 +135,10 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
 </h2>
 
+<!-- 实时贡献日历热图 -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liu-kong&theme=radical" width="100%" />
+</div>
+
 <!-- 贡献蛇形图 - 优化显示效果 -->
 <div align="center">
 <picture>
@@ -147,9 +147,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
-<!-- 实时贡献日历热图 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liu-kong&theme=radical" width="100%" />
-</div>
+
 
 <!-- 添加波浪动画页脚 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
