@@ -21,7 +21,7 @@
   <p>
     🌱 I'm currently learning <strong>Advanced AI and Machine Learning</strong><br>
     💬 Ask me about <strong>Python, TensorFlow, PyTorch, Cloud Architecture</strong><br>
-    📫 How to reach me: <strong>lzy18188413536@163.com</strong><br>
+    📫 How to reach me: <strong>liukong404a@2925.com</strong><br>
     ⚡ Fun fact: <strong>I love turning complex problems into simple solutions</strong>
   </p>
 </div>
@@ -122,9 +122,6 @@
 <br>
 
 
-
-## 📊 GitHub Streak
-
 <!-- GitHub 活动图 - 统一标题样式并对齐图标 -->
 <h2 align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
@@ -154,3 +151,6 @@
 <div align="center">
   <p>⭐️ From <a href="https://github.com/liu-kong">Liu Kong</a></p>
 </div>
+
+<!-- 添加波浪动画页脚 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
