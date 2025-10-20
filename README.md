@@ -74,30 +74,6 @@
 
 <br>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=liu-kong&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-<br>
-
-
-
-<!-- 统计卡片 -->
-<div align="center">
-  <a href="https://github.com/liu-kong">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liu-kong&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&hide=issues&bg_color=0D1117" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liu-kong&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117" />
-  </a>
-</div>
-
-<!-- 贡献活动图 -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=liu-kong&theme=radical&hide_border=true&bg_color=0D1117" alt="贡献活动图" />
-</div>
-
-<br>
 ## 🚀 Projects
 
 <div align="center">
@@ -116,13 +92,38 @@
 
 <br>
 
-## 📊 GitHub Streak
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=liu-kong&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+<br>
+
+<!-- 统计卡片 -->
+<div align="center">
+  <a href="https://github.com/liu-kong">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liu-kong&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&hide=issues&bg_color=0D1117" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liu-kong&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117" />
+  </a>
+</div>
+
+<!-- 贡献活动图 -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=liu-kong&theme=radical&hide_border=true&bg_color=0D1117" alt="贡献活动图" />
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=liu-kong&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br>
+
+
+
+## 📊 GitHub Streak
 
 <!-- GitHub 活动图 - 统一标题样式并对齐图标 -->
 <h2 align="center">
