@@ -119,12 +119,7 @@
   </a>
 </div>
 
-<!-- 贡献活动图 -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=liu-kong&theme=radical&hide_border=true&bg_color=0D1117" alt="贡献活动图" />
-</div>
 
-<br>
 
 
 
@@ -137,6 +132,11 @@
 
 <!-- 实时贡献日历热图 -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liu-kong&theme=radical" width="100%" />
+</div>
+
+<!-- 贡献活动图 -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=liu-kong&theme=radical&hide_border=true&bg_color=0D1117" alt="贡献活动图" />
 </div>
 
 <!-- 贡献蛇形图 - 优化显示效果 -->
