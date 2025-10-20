@@ -25,6 +25,16 @@
     ⚡ Fun fact: <strong>I love turning complex problems into simple solutions</strong>
   </p>
 </div>
+<div align="center">
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Quote">
+</div>
+
+<br>
+
+<div align="center">
+  <p>⭐️ From <a href="https://github.com/liu-kong">Liu Kong</a></p>
+</div>
 
 <br>
 
@@ -139,17 +149,6 @@
 
 <!-- 实时贡献日历热图 -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liu-kong&theme=radical" width="100%" />
-</div>
-
-<div align="center">
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Quote">
-</div>
-
-<br>
-
-<div align="center">
-  <p>⭐️ From <a href="https://github.com/liu-kong">Liu Kong</a></p>
 </div>
 
 <!-- 添加波浪动画页脚 -->
