@@ -79,21 +79,6 @@
 
 <br>
 
-## 🚀 Projects
-
-<div align="center">
-
-### AI2Edge Framework
-<a href="https://github.com/liu-kong/AI2Edge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=liu-kong&repo=AI2Edge&theme=radical&show_owner=true&hide_border=true&bg_color=0D1117" />
-</a>
-
-### TokTok Platform
-<a href="https://github.com/liu-kong/toktok">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=liu-kong&repo=toktok&theme=radical&show_owner=true&hide_border=true&bg_color=0D1117" />
-</a>
-
-</div>
 
 <br>
 
