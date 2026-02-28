@@ -77,16 +77,8 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </div>
 
-<br>
 
 
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=liu-kong&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
 
 <br>
 
@@ -97,12 +89,12 @@
 <br>
 
 <!-- 统计卡片 -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/liu-kong">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liu-kong&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&hide=issues&bg_color=0D1117" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liu-kong&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117" />
   </a>
-</div>
+</div> -->
 
 
 
